@@ -1,0 +1,1 @@
+Algumas estruturas de dados usadas durante as aulas.
